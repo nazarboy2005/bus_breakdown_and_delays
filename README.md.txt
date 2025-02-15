@@ -3,15 +3,17 @@
 ## 📌 Project Overview
 This project analyzes **bus transportation data** from the **New York Division of Transportation** to identify key patterns in **delays and breakdowns**. The goal is to provide actionable insights to improve the efficiency and reliability of the city's bus system.
 
-## 📂 Dataset
-The dataset consists of multiple sheets, each containing different aspects of the analysis:
+## 📂 Dataset Structure
+This project is stored in a **single Excel file** with multiple sheets:
 
-- **Scenario** – Project description and problem statement.
-- **Bus_Breakdown_and_Delays_NYC** – Raw data containing details of bus delays and breakdowns.
-- **CLEANED DATA** – Processed and structured version of the dataset for analysis.
-- **Question 1** – Analysis of common reasons for delays and breakdowns.
-- **Question 2** – Analysis of delay times across bus companies and boroughs.
-- **Question 3** – Correlation between days of the week and frequency of delays/breakdowns.
+- **Scenario** – Project background and research questions.
+- **Bus_Breakdown_and_Delays_NYC** – Raw data with bus delay and breakdown records.
+- **CLEANED DATA** – Processed dataset for analysis.
+- **Question 1** – Analysis of most common reasons for delays and breakdowns.
+- **Question 2** – Breakdown of delay times by borough and bus company.
+- **Question 3** – Correlation analysis between delays/breakdowns and weekdays.
+
+Simply open the **dataset.xlsx** file and navigate through the sheets to explore the analysis.
 
 ## 🔎 Key Insights
 ### **1️⃣ What are the most common reasons for delays and breakdowns?**
